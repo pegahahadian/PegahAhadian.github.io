@@ -26,8 +26,8 @@ body {
 }
 
 .profile-photo {
-    width: 100px;  /* Reduced width */
-    height: 100px; /* Reduced height */
+    width: 150px;  /* Reduced width */
+    height: 150px; /* Reduced height */
     border-radius: 50%;
     margin-right: 20px;
 }
