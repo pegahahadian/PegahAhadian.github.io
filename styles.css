@@ -77,6 +77,22 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+/* Add this to your styles.css file */
+
+.cv-link {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #004080;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.cv-link:hover {
+    background-color: #0066cc;
+}
+
 
 footer {
     background-color: #f4f4f4;
