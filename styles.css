@@ -54,7 +54,9 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #575757;
 }
-
+profile-photo{
+    size: 50px;
+}
 section {
     padding: 50px 0;
 }
